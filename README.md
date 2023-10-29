@@ -1,1 +1,1 @@
-# design-patterns-go
+# Go Design Patterns
